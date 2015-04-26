@@ -48,8 +48,4 @@ for datas in datasets:
     print "Success! File Copied to G:......."
 
 print "All files succesfully copied......"
-print "Deleting IHSdump folder from U:"
-
-shutil.rmtree("/IHSdump")
-
 print "script complete"
